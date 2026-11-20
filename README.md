@@ -1,4 +1,4 @@
-# MBH Crosshair
+# MBH CROSSHAIR
 
 Un mirino per Windows 10 e 11 a 64 bit, scritto in C con le API di Windows. Puoi scegliere croce, punto o anello e regolare colore, dimensione e spessore.
 
